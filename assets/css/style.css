@@ -1,0 +1,16 @@
+:root{
+    --primary:rgba(139,2,30,1);
+    --secondary:rgba(132,4,29,1);
+    --primary-gradient:linear-gradient(tp right, var(var(--primary)),var(var(--secondary)))
+}
+
+body{
+    margin: 0;
+    box-sizing: border-box;
+    background: url('../img/IMG_6598.JPG');
+    background-size: cover;
+    position: relative;
+    z-index: -1;
+Background-repeat:no-repeat;
+}
+
